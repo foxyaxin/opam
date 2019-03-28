@@ -1,4 +1,4 @@
-# OPAM - A package manager for OCaml
+# OPAM - A package manager for OCaml Fuck me
 
 OPAM is a source-based package manager for OCaml. It supports multiple simultaneous
 compiler installations, flexible package constraints, and a Git-friendly development
